@@ -1,53 +1,73 @@
-# Hi 👋, I'm Praveen Gouda
+<h1 align="center">Hi 👋, I'm Praveen Gouda</h1>
 
-### Microsoft Certified Power BI Data Analyst (PL-300)
+<h3 align="center">
+Microsoft Certified: Power BI Data Analyst (PL-300)
+</h3>
 
-**Data Analyst | Business Intelligence | Power BI | SQL | DAX | Power Query**
+<p align="center">
+Data Analyst • Business Intelligence • Power BI • SQL • DAX • Power Query
+</p>
 
-I have 5+ years of experience building Business Intelligence solutions and transforming complex data into actionable business insights through interactive dashboards, automation, and analytics.
+---
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst with 5+ years of experience
-- 📍 Bengaluru, India
-- 🎯 Passionate about Business Intelligence and Data Analytics
-- 📈 Experienced in Power BI, SQL, DAX, Power Query, Excel & TIBCO Spotfire
-- 🌱 Currently learning Microsoft Fabric & Azure Data Platform
-- 💡 Interested in Enterprise BI Modernization and Data Visualization
+I'm a **Microsoft Certified Power BI Data Analyst (PL-300)** with **5+ years of experience** in Business Intelligence, Data Analytics, and Dashboard Development.
 
-## 🚀 Core Skills
+I enjoy transforming complex business data into meaningful insights through interactive dashboards, data modeling, SQL, and DAX. I'm passionate about building enterprise-grade reporting solutions that help organizations make data-driven decisions.
 
-- Power BI
-- SQL
-- DAX
-- Power Query
-- Data Modeling
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- Excel
-- TIBCO Spotfire
+📍 Bengaluru, India
 
-## 📂 Featured Projects
+---
 
-- Enterprise BI Modernization (TIBCO Spotfire → Power BI)
-- Executive Workforce Analytics Dashboard
-- HR Analytics Dashboard
-- Retail Sales Analytics
-- SQL Data Validation Case Studies
+## 🛠️ Technical Skills
 
-## 🏆 Certifications
+| Category | Skills |
+|-----------|--------|
+| 📊 BI Tools | Power BI, TIBCO Spotfire |
+| 💾 Database | SQL, MySQL |
+| ⚙️ Data | DAX, Power Query, Data Modeling, ETL |
+| 📈 Analytics | Dashboard Development, KPI Reporting, Data Visualization |
+| 📋 Productivity | Excel, PowerPoint |
+| 🔧 Version Control | Git, GitHub |
 
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+---
 
-## 📚 Currently Learning
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏢 Enterprise BI Modernization | Migration case study from TIBCO Spotfire to Power BI *(Coming Soon)* |
+| 👥 Executive Workforce Dashboard | Enterprise workforce analytics using Power BI |
+| 📈 HR Analytics Dashboard | Attrition, hiring trends, and workforce insights |
+| 🛒 Retail Sales Dashboard | Executive sales performance dashboard |
+| 🗄️ SQL Case Studies | Advanced SQL queries and business scenarios |
+
+---
+
+## 🏆 Certification
+
+✔ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+---
+
+## 🌱 Currently Learning
 
 - Microsoft Fabric
-- Advanced DAX
-- Analytics Engineering Concepts
 - Azure Data Platform
+- Advanced DAX Optimization
+- Analytics Engineering
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/praveengouda
-- Email: praveen15.gouda1994@gmail.com
+💼 LinkedIn: www.linkedin.com/in/praveengouda
+
+---
+
+<p align="center">
+
+⭐ Building enterprise-grade Business Intelligence solutions with Power BI & SQL ⭐
+
+</p>
