@@ -1,8 +1,19 @@
-# Hi 👋 I'm Praveen Gouda
+# Hi 👋, I'm Praveen Gouda
 
-Microsoft Certified: Power BI Data Analyst (PL-300)
+### Microsoft Certified Power BI Data Analyst (PL-300)
 
-I'm a Data Analyst with 5+ years of experience building Business Intelligence solutions using Power BI, SQL, DAX, Power Query, Excel, and TIBCO Spotfire.
+**Data Analyst | Business Intelligence | Power BI | SQL | DAX | Power Query**
+
+I have 5+ years of experience building Business Intelligence solutions and transforming complex data into actionable business insights through interactive dashboards, automation, and analytics.
+
+## 👨‍💻 About Me
+
+- 📊 Data Analyst with 5+ years of experience
+- 📍 Bengaluru, India
+- 🎯 Passionate about Business Intelligence and Data Analytics
+- 📈 Experienced in Power BI, SQL, DAX, Power Query, Excel & TIBCO Spotfire
+- 🌱 Currently learning Microsoft Fabric & Azure Data Platform
+- 💡 Interested in Enterprise BI Modernization and Data Visualization
 
 ## 🚀 Core Skills
 
@@ -25,17 +36,18 @@ I'm a Data Analyst with 5+ years of experience building Business Intelligence so
 - Retail Sales Analytics
 - SQL Data Validation Case Studies
 
-## 📜 Certifications
+## 🏆 Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Microsoft Fabric
-- Azure Data Platform
 - Advanced DAX
-- Analytics Engineering
+- Analytics Engineering Concepts
+- Azure Data Platform
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/praveengouda
+- LinkedIn: linkedin.com/in/praveengouda
+- Email: praveen15.gouda1994@gmail.com
